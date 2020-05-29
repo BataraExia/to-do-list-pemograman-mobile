@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PEMOGRAMAN mobile'.iml" filepath="$PROJECT_DIR$/PEMOGRAMAN mobile'.iml" group="PEMOGRAMAN mobile'" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="PEMOGRAMAN mobile'/app" />
+    </modules>
+  </component>
+</project>
